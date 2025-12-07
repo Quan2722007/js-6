@@ -13,11 +13,11 @@ body {
     padding: 10px 0;
     align-items: center;
     justify-content: center;
-    background-color: rgba(213, 255, 255, 0.677);
+    background-color: rgba(229, 255, 255, 0.677);
 }
 h1 {
     font-size: 3.5rem;
-    color: rgb(160, 75, 26);
+    color: rgb(171 64 0);
     margin: 0;
 }
 .container {
